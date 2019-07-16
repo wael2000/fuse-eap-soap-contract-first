@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<jboss-deployment-structure xmlns="urn:jboss:deployment-structure:1.0">  
+  <deployment>  
+        <dependencies>  
+          <!-- <module name="org.postgresql" slot="main"/>
+          
+          <module name="org.springframework.core" slot="main" export="true"/>       
+          <module name="org.springframework.jdbc" slot="main" export="true"/>
+          -->
+        </dependencies> 
+         
+  </deployment>     
+ </jboss-deployment-structure>  
